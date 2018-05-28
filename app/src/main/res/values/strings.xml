@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Baby\'s Music Playlist</string>
+    <string name="favorites">Favorites</string>
+    <string name="bedtime_music">Bedtime</string>
+    <string name="bedtime1a">Hush Little Baby</string>
+    <string name="bedtime1b">Nursery Rhymes</string>
+    <string name="bedtime2a">Twinkle Twinkle Little Star</string>
+    <string name="bedtime2b">Jane Taylor</string>
+    <string name="bedtime3a">Jesus Loves Me</string>
+    <string name="bedtime3b">Listener Kids</string>
+    <string name="fav1a">Dinosaur Stomp</string>
+    <string name="fav1b">Mother Goose Club</string>
+    <string name="fav2a">Fingers Family</string>
+    <string name="fav2b">Chu Chu TV</string>
+    <string name="fav3a">Wheels on the Bus</string>
+    <string name="fav3b">Verna Hills</string>
+</resources>
